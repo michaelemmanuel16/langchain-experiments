@@ -38,7 +38,7 @@ The YouTube AI Assistant offers informative responses to questions about a YouTu
 ## Usage
 1. Run the Streamlit application:
    ```
-   streamlit run script.py
+   streamlit run youtube.py
 2. Open the provided link in your web browser to access the Streamlit app.
 3. In the sidebar, enter the URL of the YouTube video for transcript analysis.
 4. In the main interface, type your question about the video in the input box.
